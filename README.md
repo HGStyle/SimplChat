@@ -1,3 +1,7 @@
+# SimplChat
+
+Released under MIT License by HGStyle. Not made for real world usage. To build, use `npm run build-only` instead of `npm run build` because else type checking will fail. i hate typescript. anyways good luck with this
+
 # simplchat
 
 This template should help get you started developing with Vue 3 in Vite.
