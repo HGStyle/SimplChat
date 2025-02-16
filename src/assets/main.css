@@ -1,0 +1,11 @@
+:root {
+    --main-color: #F5F5F5;
+    --secondary-color: #F8F8FF;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: var(--main-color);
+}
